@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BizCompass 事例紹介</title>
+    <link rel="stylesheet" href="style-bizcompass.css">
+</head>
+<body>
+    <section class="case-study">
+        <div class="case-header">
+            <img src="case-icon.png" alt="Case Icon" class="case-icon">
+            <h2>CASE 01<br><span class="case-category">BizCompassで案件獲得</span></h2>
+        </div>
+        <div class="case-content">
+            <h3>「新規案件を探しているが、どこに依頼すればいいかわからない…」</h3>
+            <p>BizCompassに登録することで、簡単に案件を受注できました！<br>新しいビジネスの機会を得ることができ、売上アップにもつながりました。</p>
+            <div class="chat-box">
+                <h4>ライブチャット</h4>
+                <div class="chat-message">
+                    <span class="chat-icon">💬</span>
+                    <p>BizCompassを活用して、スムーズに案件をマッチングしましょう！</p>
+                </div>
+                <button class="chat-btn">案件を探す</button>
+                <button class="chat-btn">協業パートナーを見つける</button>
+                <button class="chat-btn">ストック収入について知る</button>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
